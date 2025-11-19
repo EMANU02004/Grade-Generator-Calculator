@@ -56,7 +56,7 @@ def main():
     final_grade = fa_total + sa_total
     gpa = (final_grade / 100) * 5.0
     
-    print(f"\nFormative: {fa_total:.1f}")
+    print(f"\Formative: {fa_total:.1f}")
     print(f"Summative: {sa_total:.1f}")
     print(f"Final Grade: {final_grade:.1f}/100")
     print(f"GPA: {gpa:.1f}/5.0")
