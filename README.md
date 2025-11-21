@@ -10,7 +10,8 @@ An interactive Python application that calculates a student's final grade by pro
 # Quick Start
 # 1. Grade Calculator
 
-python3 grade-generator.py
+How to run it;
+<i><b>python3 grade-generator.py<i><b>
 
 .Enter assignment details interactively<br>
 .Calculates weighted grades and GPA<br>
@@ -18,8 +19,9 @@ python3 grade-generator.py
 
 # 2. File Organizer
 
-chmod +x organizer.sh<br>
-./organizer.sh<br>
+How to run it;
+<i><b>chmod +x organizer.sh<br><b><i>
+<i><b>./organizer.sh<br><i><b>
 
 .Moves CSV files to archive/ folder<br>
 .Adds timestamps to filenames<br>
