@@ -33,7 +33,7 @@ def main():
             'name': name,
             'category': category,
             'grade': grade,
-            'weight': weight
+            'weight': weight,,
         })
         
         # Continue?
